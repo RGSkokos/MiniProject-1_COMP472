@@ -10,13 +10,13 @@ ENSURE THAT YOU HAVE THE FOLLOWING MODELS DOWNLOADED AND STORED WITHIN THE PROJE
   12. Gigaword 5th Edition                     ||  Algorithm: Gensim Continuous Skipgram
   
 #### STEP 2: USE JUPYTER NOTEBOOK TO RUN THE CODE  
-Once these files are in the same folder as the ** MinProj1_COMP472 ** jupyter notebook file, you can proceed to the next step.
-When running this file, in Jupyter Notebook, simply click on ** "Kernel" + "Restart & Run All" ** in order to run each cell one after the other.
+Once these files are in the same folder as the **MinProj1_COMP472**  jupyter notebook file, you can proceed to the next step.
+When running this file, in Jupyter Notebook, simply click on **"Kernel" + "Restart & Run All"** in order to run each cell one after the other.
 Cosidering the size of the file being around 4GB, this will take some time to run.
 
 #### STEP 3: PERFORMANCE FILE
-To see the performance.txt file containing all the requested items, please see, within the folder, the ** "performance.txt" ** file ** AFTER ** you run the file as indicated.
-** DO NOT OPEN THE TEXT FILE UNLESS ALL CELLS HAVE BEEN RUN FROM START TO FINISH. **
+To see the performance.txt file containing all the requested items, please see, within the folder, the **"performance.txt"** file **AFTER** you run the file as indicated.
+**DO NOT OPEN THE TEXT FILE UNLESS ALL CELLS HAVE BEEN RUN FROM START TO FINISH.**
 
 ALL DONE :)
 
