@@ -1,4 +1,5 @@
 https://github.com/RGSkokos/MiniProject-1_COMP472
+
 This is the first Mini Project for Comp 472
 This team is named: Skynet
 # Instructions:
