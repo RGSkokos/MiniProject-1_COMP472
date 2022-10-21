@@ -1,15 +1,15 @@
 https://github.com/RGSkokos/MiniProject-1_COMP472
 This is the first Mini Project for Comp 472
 This team is named: Skynet
-##Instructions:
-##STEP 1: DONWLOAD MODELS
-##BEFORE RUNNING THE FILE (STEP 2):
+# Instructions:
+#### STEP 1: DONWLOAD MODELS
+#### BEFORE RUNNING THE FILE (STEP 2):
 ENSURE THAT YOU HAVE THE FOLLOWING MODELS DOWNLOADED AND STORED WITHIN THE PROJECT FOLDER:
   go to: http://vectors.nlpl.eu/repository and download the following (they are numbered by the website index)
   6.  English Wikipedia Dump of February 2017  ||  Algorithm: Gensim Continuous Skipgram
   12. Gigaword 5th Edition                     ||  Algorithm: Gensim Continuous Skipgram
   
-STEP 2: USE JUPYTER NOTEBOOK TO RUN THE CODE  
+#### STEP 2: USE JUPYTER NOTEBOOK TO RUN THE CODE  
 Once these files are in the same folder as the ** MinProj1_COMP472 ** jupyter notebook file, you can proceed to the next step.
 When running this file, in Jupyter Notebook, simply click on ** "Kernel" + "Restart & Run All" ** in order to run each cell one after the other.
 Cosidering the size of the file being around 4GB, this will take some time to run.
