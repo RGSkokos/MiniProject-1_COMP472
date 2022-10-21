@@ -14,6 +14,8 @@ and download the following (they are numbered by the website index):
 
 
 12.Gigaword 5th Edition                    ||  Algorithm: Gensim Continuous Skipgram
+
+Store the .bin files in the project folder (these are the algorithm files)
   
 #### STEP 2: USE JUPYTER NOTEBOOK TO RUN THE CODE  
 Once these files are in the same folder as the **MinProj1_COMP472**  jupyter notebook file, you can proceed to the next step.
