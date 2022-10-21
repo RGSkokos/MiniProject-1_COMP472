@@ -3,12 +3,17 @@ https://github.com/RGSkokos/MiniProject-1_COMP472
 This is the first Mini Project for Comp 472
 This team is named: Skynet
 # Instructions:
-#### STEP 1: DONWLOAD MODELS
+#### STEP 1: DOWNLOAD MODELS
 #### BEFORE RUNNING THE FILE (STEP 2):
 ENSURE THAT YOU HAVE THE FOLLOWING MODELS DOWNLOADED AND STORED WITHIN THE PROJECT FOLDER:
-  go to: http://vectors.nlpl.eu/repository and download the following (they are numbered by the website index)
-  6.  English Wikipedia Dump of February 2017  ||  Algorithm: Gensim Continuous Skipgram
-  12. Gigaword 5th Edition                     ||  Algorithm: Gensim Continuous Skipgram
+
+go to: http://vectors.nlpl.eu/repository 
+and download the following (they are numbered by the website index):
+
+6.English Wikipedia Dump of February 2017  ||  Algorithm: Gensim Continuous Skipgram
+
+
+12.Gigaword 5th Edition                    ||  Algorithm: Gensim Continuous Skipgram
   
 #### STEP 2: USE JUPYTER NOTEBOOK TO RUN THE CODE  
 Once these files are in the same folder as the **MinProj1_COMP472**  jupyter notebook file, you can proceed to the next step.
